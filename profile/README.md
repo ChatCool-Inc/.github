@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<img src="https://cdn.discordapp.com/attachments/944689670304972800/1119971239369384006/ChatCool_14.png">
+<img src="https://cdn.discordapp.com/attachments/944689670304972800/1119972142344323102/chatcoolbanner.png" height="140px" width="500px">
