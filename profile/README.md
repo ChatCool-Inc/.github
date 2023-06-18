@@ -20,4 +20,4 @@
          <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=chatcool-inc&style=for-the-badge&color=A39D2A"> </a>
       </td>
     </tr>
-  </table>
+  </table> 
