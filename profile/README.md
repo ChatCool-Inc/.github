@@ -1,5 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/944689670304972800/1119972142344323102/chatcoolbanner.png" height="225px" width="850px">
 
+<center>
   <table>
     <tr>
       <!-- <th>Profile Views</th> -->
@@ -15,7 +16,8 @@
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=959532"> </a>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=chatcool-inc&style=for-the-badge&color=959532"> </a>
       </td>
     </tr>
   </table>
+</center>
